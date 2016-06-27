@@ -11,7 +11,7 @@
 rm(list=ls())
 
 # Sourcing function library
-source("trappeR_lib_1.1.R")
+source("trappeR_lib.R")
 
 annotate <- function(){
 
